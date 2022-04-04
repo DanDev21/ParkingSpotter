@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParkingSpotter</string>
+
+        description
+    <string name="description_toggle_map_theme">Toggle map theme</string>
+    <string name="description_delete_parking_spot">Long click for delete</string>
+</resources>
